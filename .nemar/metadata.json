@@ -2,6 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "Visual ECoG dataset",
+  "description": "This dataset comprises intracranial EEG recordings from 14 epilepsy patients implanted with clinical surface and depth electrodes, collected during visual stimulation tasks between 2017-2020. Participants viewed grayscale patterns with systematically varied spatial and temporal properties, as well as color images of six object categories, while performing a fixation task. The dataset includes raw voltage data, common-average-referenced recordings, broadband responses, preprocessed epochs, and anatomical MRI scans with electrode localizations, enabling investigation of neural dynamics in human visual cortex.",
+  "methods_description": "Intracranial EEG recordings were obtained from 14 epilepsy patients implanted with standard clinical surface (grid) and depth electrodes, with two patients additionally implanted with high-density research grids. Participants performed multiple visual tasks including population receptive field mapping with oriented bar stimuli, spatial and temporal pattern discrimination tasks, and six-category object recognition tasks with systematic variations in stimulus duration and inter-stimulus intervals. Pre-implantation T1-weighted MRI scans were acquired for electrode localization. Data were collected across multiple sessions between 2017-2020.",
   "license": "CC0",
   "dataset_type": "raw",
   "authors": {
@@ -82,12 +84,32 @@
       "orcid": "0000-0001-7475-5586"
     }
   },
-  "related_identifiers": [
+  "keywords": [
     {
-      "identifier": "10.18112/openneuro.ds004194.v3.0.0",
-      "identifier_type": "DOI",
-      "relation_type": "IsIdenticalTo"
+      "term": "Electrocorticography",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D000069280"
     },
+    {
+      "term": "visual cortex"
+    },
+    {
+      "term": "neural responses"
+    },
+    {
+      "term": "population receptive fields"
+    },
+    {
+      "term": "temporal dynamics"
+    },
+    {
+      "term": "intracranial electrodes"
+    },
+    {
+      "term": "object recognition"
+    }
+  ],
+  "related_identifiers": [
     {
       "identifier": "10.1523/JNEUROSCI.1812-21.2022",
       "identifier_type": "DOI",
@@ -112,6 +134,11 @@
       "identifier": "https://nemar.org/dataexplorer/detail?dataset_id=on004194",
       "identifier_type": "URL",
       "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "10.18112/openneuro.ds004194.v3.0.0",
+      "identifier_type": "DOI",
+      "relation_type": "IsDerivedFrom"
     }
   ],
   "funding_references": [
@@ -122,20 +149,16 @@
       "funder_name": "NIH",
       "award_number": "R01MH111417",
       "award_title": "BRAIN Initiative, National Institute of Mental Health"
-    },
-    {
-      "funder_name": "New York University",
-      "award_title": "IT High Performance Computing resources, services, and staff expertise"
     }
   ],
   "resource_type_general": "Dataset",
+  "resource_type_specific": "Structural MRI Dataset",
   "modalities": [
     "anat",
     "ieeg"
   ],
-  "resource_type_specific": "Structural MRI Dataset",
   "sizes": [
-    "0.0 KB (1 files)"
+    "61.9 GB (11645 files)"
   ],
   "formats": [
     ".2mm/README",
@@ -209,39 +232,8 @@
     ".white",
     ".white_avg",
     ".xfm",
-    ".yaml"
+    ".yaml",
+    ".yml"
   ],
-  "description": "This dataset comprises intracranial EEG recordings from 14 epilepsy patients implanted with clinical surface and depth electrodes, collected during visual stimulation tasks between 2017-2020. Participants viewed grayscale pattern stimuli varying in spatial and temporal properties, as well as color images of six object categories, while performing a fixation task. The dataset includes raw voltage data, common-average-referenced recordings, broadband responses, and preprocessed derivatives enabling investigation of neural dynamics in human visual cortex.",
-  "methods_description": "Cortical iEEG recordings were obtained from epilepsy patients implanted with standard clinical surface (grid) and depth electrodes, with two patients additionally implanted with high-density research grids. Pre-implantation MRI T1 scans were acquired for electrode localization. Participants performed multiple visual tasks including population receptive field mapping with oriented bar stimuli, spatial and temporal pattern discrimination tasks, and six-category object recognition tasks with systematic variations in stimulus duration and inter-stimulus intervals. All participants performed a stimulus-orthogonal fixation task monitoring for color changes.",
-  "keywords": [
-    {
-      "term": "Electrocorticography",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D000069280"
-    },
-    {
-      "term": "Visual Cortex",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D014793"
-    },
-    {
-      "term": "intracranial EEG"
-    },
-    {
-      "term": "population receptive fields"
-    },
-    {
-      "term": "neural adaptation"
-    },
-    {
-      "term": "object recognition"
-    },
-    {
-      "term": "temporal dynamics"
-    },
-    {
-      "term": "epilepsy"
-    }
-  ],
-  "source_hash": "847ad2da419e29d8ad88d0c254b7f5db1ce83f85652417114f543620e928edad"
+  "source_hash": "7e0d8127677aa69712493017b52814b63417706de5d14f85bc2da7b4df94b5ec"
 }
