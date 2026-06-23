@@ -1,51 +1,247 @@
 {
   "version": "2.0",
-  "dataset_id": "on004194",
-  "source": "openneuro",
-  "source_id": "ds004194",
+  "pipeline_stage": "validated",
   "title": "Visual ECoG dataset",
-  "authors": {
-    "Iris Groen": {},
-    "Kenichi Yuasa": {},
-    "Amber Brands": {},
-    "Giovanni Piantoni": {},
-    "Stephanie Montenegro": {},
-    "Adeen Flinker": {},
-    "Sasha Devore": {},
-    "Orrin Devinsky": {},
-    "Werner Doyle": {},
-    "Patricia Dugan": {},
-    "Daniel Friedman": {},
-    "Nick Ramsey": {},
-    "Natalia Petridou": {},
-    "Jonathan Winawer": {}
-  },
   "license": "CC0",
   "dataset_type": "raw",
+  "authors": {
+    "Iris Groen": {},
+    "Kenichi Yuasa": {
+      "orcid": "0000-0002-5697-7537",
+      "affiliations": [
+        {
+          "name": "Department of Psychology, New York University"
+        }
+      ]
+    },
+    "Amber Brands": {},
+    "Giovanni Piantoni": {
+      "orcid": "0000-0002-5308-926X",
+      "affiliations": [
+        {
+          "name": "University Medical Center Utrecht"
+        }
+      ]
+    },
+    "Stephanie Montenegro": {},
+    "Adeen Flinker": {
+      "orcid": "0000-0003-1247-1283"
+    },
+    "Sasha Devore": {
+      "orcid": "0000-0003-2554-1850",
+      "affiliations": [
+        {
+          "name": "New York University School of Medicine"
+        }
+      ]
+    },
+    "Orrin Devinsky": {
+      "orcid": "0000-0003-0044-4632"
+    },
+    "Werner Doyle": {
+      "orcid": "0000-0001-7138-9701",
+      "affiliations": [
+        {
+          "name": "New York University School of Medicine"
+        }
+      ]
+    },
+    "Patricia Dugan": {
+      "orcid": "0000-0001-6199-1870",
+      "affiliations": [
+        {
+          "name": "New York University School of Medicine"
+        }
+      ]
+    },
+    "Daniel Friedman": {
+      "orcid": "0000-0003-1068-1797",
+      "affiliations": [
+        {
+          "name": "New York University School of Medicine"
+        }
+      ]
+    },
+    "Nick Ramsey": {
+      "orcid": "0000-0002-7136-259X",
+      "affiliations": [
+        {
+          "name": "University Medical Center Utrecht"
+        }
+      ]
+    },
+    "Natalia Petridou": {
+      "orcid": "0000-0002-0783-0387",
+      "affiliations": [
+        {
+          "name": "University Medical Center Utrecht"
+        }
+      ]
+    },
+    "Jonathan Winawer": {
+      "orcid": "0000-0001-7475-5586"
+    }
+  },
   "related_identifiers": [
     {
       "identifier": "10.18112/openneuro.ds004194.v3.0.0",
       "identifier_type": "DOI",
       "relation_type": "IsIdenticalTo"
+    },
+    {
+      "identifier": "10.1523/JNEUROSCI.1812-21.2022",
+      "identifier_type": "DOI",
+      "relation_type": "References"
+    },
+    {
+      "identifier": "10.7554/eLife.90387.1",
+      "identifier_type": "DOI",
+      "relation_type": "References"
+    },
+    {
+      "identifier": "10.1101/2023.09.13.557378",
+      "identifier_type": "DOI",
+      "relation_type": "References"
+    },
+    {
+      "identifier": "https://github.com/nemarDatasets/on004194",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "https://nemar.org/dataexplorer/detail?dataset_id=on004194",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
     }
-  ],
-  "pipeline_stage": "seeded",
-  "bids_version": "1.9.2",
-  "recording_modality": [
-    "anat",
-    "ieeg"
-  ],
-  "datatypes": [
-    "anat",
-    "ieeg"
   ],
   "funding_references": [
     {
-      "funder_name": "This work was funded by BRAIN Initiative, the National Institute of Mental Health of the National Institutes of Health under Award Number R01MH111417"
+      "funder_name": "This work was supported in part through the NYU IT High Performance Computing resources, services, and staff expertise."
     },
     {
-      "funder_name": "This work was supported in part through the NYU IT High Performance Computing resources, services, and staff expertise."
+      "funder_name": "NIH",
+      "award_number": "R01MH111417",
+      "award_title": "BRAIN Initiative, National Institute of Mental Health"
+    },
+    {
+      "funder_name": "New York University",
+      "award_title": "IT High Performance Computing resources, services, and staff expertise"
     }
   ],
-  "acknowledgements": "Other contributors to this dataset: Dora Hermes"
+  "resource_type_general": "Dataset",
+  "modalities": [
+    "anat",
+    "ieeg"
+  ],
+  "resource_type_specific": "Structural MRI Dataset",
+  "sizes": [
+    "0.0 KB (1 files)"
+  ],
+  "formats": [
+    ".2mm/README",
+    ".3d",
+    ".H",
+    ".K",
+    ".README",
+    ".T1",
+    ".annot",
+    ".area",
+    ".avg",
+    ".avg_curv",
+    ".avg_sulc",
+    ".avg_thickness",
+    ".bak",
+    ".cmd",
+    ".crv",
+    ".csv",
+    ".ctab",
+    ".curv",
+    ".dat",
+    ".defect_borders",
+    ".defect_chull",
+    ".defect_labels",
+    ".done",
+    ".eeg",
+    ".env",
+    ".flat",
+    ".gii",
+    ".gz",
+    ".inflated",
+    ".inflated_avg",
+    ".inflated_pre",
+    ".jacobian_white",
+    ".json",
+    ".label",
+    ".local-copy",
+    ".log",
+    ".lta",
+    ".m3z",
+    ".mat",
+    ".md",
+    ".mgh",
+    ".mgz",
+    ".mid",
+    ".nofix",
+    ".npy",
+    ".old",
+    ".orig",
+    ".orig_avg",
+    ".pial",
+    ".pial_avg",
+    ".pial_semi_inflated",
+    ".png",
+    ".pointset",
+    ".preaparc",
+    ".premesh",
+    ".reg",
+    ".smoothwm",
+    ".sphere",
+    ".stats",
+    ".sulc",
+    ".thickness",
+    ".tif",
+    ".touch",
+    ".tsv",
+    ".txt",
+    ".vhdr",
+    ".vmrk",
+    ".volume",
+    ".white",
+    ".white_avg",
+    ".xfm",
+    ".yaml"
+  ],
+  "description": "This dataset comprises intracranial EEG recordings from 14 epilepsy patients implanted with clinical surface and depth electrodes, collected during visual stimulation tasks between 2017-2020. Participants viewed grayscale pattern stimuli varying in spatial and temporal properties, as well as color images of six object categories, while performing a fixation task. The dataset includes raw voltage data, common-average-referenced recordings, broadband responses, and preprocessed derivatives enabling investigation of neural dynamics in human visual cortex.",
+  "methods_description": "Cortical iEEG recordings were obtained from epilepsy patients implanted with standard clinical surface (grid) and depth electrodes, with two patients additionally implanted with high-density research grids. Pre-implantation MRI T1 scans were acquired for electrode localization. Participants performed multiple visual tasks including population receptive field mapping with oriented bar stimuli, spatial and temporal pattern discrimination tasks, and six-category object recognition tasks with systematic variations in stimulus duration and inter-stimulus intervals. All participants performed a stimulus-orthogonal fixation task monitoring for color changes.",
+  "keywords": [
+    {
+      "term": "Electrocorticography",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D000069280"
+    },
+    {
+      "term": "Visual Cortex",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D014793"
+    },
+    {
+      "term": "intracranial EEG"
+    },
+    {
+      "term": "population receptive fields"
+    },
+    {
+      "term": "neural adaptation"
+    },
+    {
+      "term": "object recognition"
+    },
+    {
+      "term": "temporal dynamics"
+    },
+    {
+      "term": "epilepsy"
+    }
+  ],
+  "source_hash": "847ad2da419e29d8ad88d0c254b7f5db1ce83f85652417114f543620e928edad"
 }
