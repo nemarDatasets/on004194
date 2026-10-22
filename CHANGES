@@ -1,3 +1,7 @@
+3.0.1 2026-10-22
+  - channels.tsv of 191 recordings = the data-file header channel list (name, order, count; matched by name): 20861 rows renamed to the header name, 24 rows added, 24 rows removed (kept in sourcedata/channels-removed-2026-10-18/), 0 files reordered. mne_bids read_raw_bids raised 'Channel mismatch'.
+  - README: section 'Channel names follow the data headers'.
+
 3.0.0 2025-04-01
   - added derivative dataset reported in Yuasa et al., (2023)
 2.0.0 2024-05-03

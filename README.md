@@ -109,3 +109,17 @@ Further participant-specific notes:
 - Participants sub-10 and sub-11 have high density grids in addition to clinical grids.
 
 - Note that all stimuli and stimulus parameters can be found in the participant-specific stimulus *.mat files. 
+
+## Channel names follow the data headers (18 Oct 2026)
+
+In 191 recordings the channel list of channels.tsv did not equal the data-file header (names, order or count), so `mne_bids.read_raw_bids` stopped with 'Channel mismatch' (or 'Duplicate channel names'); EEGDash renamed the data channels by position to the channels.tsv names, which gives wrong labels wherever the two lists are not aligned. Since 18 Oct 2026 every channels.tsv lists exactly the header channels, in header order, with the header names (MNE names: duplicated header labels numbered -0, -1).
+
+Rows were matched to header channels BY NAME, never by position (exact; then case/whitespace; then the recorder prefix 'EEG '/'POL ', '_' and zero padding; then a trailing '-<reference>' token). Matched rows keep all their columns (type, units, status, ...); 20861 rows took the header name (the header labels carry '-REF' suffix, 'ECG ' prefix + '-REF' suffix).
+
+24 header channels had no channels.tsv row (12 files) and got a new row: type from the name (ECG/EMG/EOG/trigger) or from the other contacts of the same shaft, else MISC; units from the header; status n/a. Examples: `sub-p05_ses-nyuecog01_task-prf_acq-clinical_run-01_ieeg.vhdr`: PulseRate, EDFAnnotations; `sub-p05_ses-nyuecog01_task-prf_acq-clinical_run-02_ieeg.vhdr`: PulseRate, EDFAnnotations; `sub-p05_ses-nyuecog01_task-prf_acq-clinical_run-03_ieeg.vhdr`: PulseRate, EDFAnnotations.
+
+24 channels.tsv rows had no channel in the data file (12 files) and were removed; they are kept verbatim under `sourcedata/channels-removed-2026-10-18/` (same relative path). Examples: `sub-p05_ses-nyuecog01_task-prf_acq-clinical_run-01_ieeg.vhdr`: PulseR, EDFAnnotati; `sub-p05_ses-nyuecog01_task-prf_acq-clinical_run-02_ieeg.vhdr`: PulseR, EDFAnnotati; `sub-p05_ses-nyuecog01_task-prf_acq-clinical_run-03_ieeg.vhdr`: PulseR, EDFAnnotati.
+
+EEGDash's positional renaming had given wrong labels to 24 channels in 12 files (rows missing, extra or out of order before that position).
+
+electrodes.tsv is unchanged: it names the contacts (e.g. `A1`), while channel names follow the recorder (e.g. `A1-AV`); to attach positions in MNE, map channel names to contact names first, e.g. `raw.rename_channels(lambda n: re.sub(r'-[A-Za-z0-9]+$', '', n))`.

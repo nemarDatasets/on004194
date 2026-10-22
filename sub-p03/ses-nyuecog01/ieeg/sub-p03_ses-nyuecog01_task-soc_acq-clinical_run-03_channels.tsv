@@ -1,141 +1,141 @@
 name	type	units	low_cutoff	high_cutoff	sampling_frequency	notch	reference	group	description	status	status_description
-G03	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G04	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G05	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G06	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G07	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G08	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G09	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G10	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G11	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G12	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G13	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G14	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G15	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G16	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G17	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G18	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G19	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G20	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G21	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G22	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G23	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G24	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G25	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G26	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G27	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G28	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G29	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G30	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G31	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G32	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G33	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G34	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G35	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G36	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G37	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G38	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G39	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G40	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G41	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G42	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G43	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G44	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G45	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G46	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G47	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G48	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G49	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G50	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G51	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G52	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G53	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G54	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G55	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G56	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G57	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G58	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G59	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G60	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G61	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G62	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G63	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G64	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-IO01	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
-IO02	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
-IO03	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
-IO04	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
-MO01	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
-MO02	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
-MO03	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
-MO04	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
-SF01	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
-SF02	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
-SF04	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
-SF05	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
-SF07	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
-SF08	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
-MF01	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
-MF02	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
-MF04	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
-MF05	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
-MF07	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	bad	spikes
-MF08	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	bad	spikes
-IF01	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
-IF02	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
-IF04	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
-IF05	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
-IF07	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
-IF08	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
-T01	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
-T02	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
-T03	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
-T04	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
-T05	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
-T06	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
-DAIL01	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
-DAIL02	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
-DAIL03	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
-DAIL04	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
-DAIL07	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
-DAIL08	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	bad	spikes
-DPIL01	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
-DPIL02	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	bad	spikes
-DPIL03	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
-DPIL04	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
-DPIL05	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
-DPIL06	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
-DPSL01	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
-DPSL02	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
-DPSL04	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
-DPSL05	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
-DASL01	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
-DASL02	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
-DASL03	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
-DASL04	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
-DASL05	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
-DASL06	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
-DLPA01	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
-DLPA02	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
-DLPA03	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
-DLPA04	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
-DLPA05	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
-DLPA06	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
-DLPA07	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
-DLPA08	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
-SG01	OTHER	microV	500	0.15	512	n/a	n/a	n/a	n/a	bad	spikes
-SG06	OTHER	microV	500	0.15	512	n/a	n/a	n/a	n/a	bad	spikes
-EKG1	ECG	microV	500	0.15	512	n/a	n/a	n/a	n/a	bad	n/a
-EKG2	ECG	microV	500	0.15	512	n/a	n/a	n/a	n/a	bad	n/a
-DCEMBRACE	OTHER	microV	500	0.15	512	n/a	n/a	n/a	n/a	bad	n/a
-DC2	OTHER	microV	500	0.15	512	n/a	n/a	n/a	n/a	bad	n/a
-DC3	OTHER	microV	500	0.15	512	n/a	n/a	n/a	n/a	bad	n/a
-DC4	OTHER	microV	500	0.15	512	n/a	n/a	n/a	n/a	bad	n/a
-DC5	OTHER	microV	500	0.15	512	n/a	n/a	n/a	n/a	bad	n/a
-DC6	OTHER	microV	500	0.15	512	n/a	n/a	n/a	n/a	bad	n/a
-DC7	OTHER	microV	500	0.15	512	n/a	n/a	n/a	n/a	bad	n/a
-DC8	OTHER	microV	500	0.15	512	n/a	n/a	n/a	n/a	bad	n/a
-DC9	OTHER	microV	500	0.15	512	n/a	n/a	n/a	n/a	bad	n/a
-DC10	TRIG	microV	500	0.15	512	n/a	n/a	n/a	n/a	bad	n/a
-DCTCSPO2	OTHER	microV	500	0.15	512	n/a	n/a	n/a	n/a	bad	n/a
-DCTCCO2	OTHER	microV	500	0.15	512	n/a	n/a	n/a	n/a	bad	n/a
+EEG G_03-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_04-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_05-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_06-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_07-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_08-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_09-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_10-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_11-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_12-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_13-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_14-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_15-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_16-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_17-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_18-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_19-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_20-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_21-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_22-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_23-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_24-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_25-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_26-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_27-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_28-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_29-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_30-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_31-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_32-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_33-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_34-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_35-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_36-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_37-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_38-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_39-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_40-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_41-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_42-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_43-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_44-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_45-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_46-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_47-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_48-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_49-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_50-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_51-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_52-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_53-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_54-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_55-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_56-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_57-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_58-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_59-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_60-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_61-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_62-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_63-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG G_64-REF	ECOG	microV	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+EEG IO_01-REF	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
+EEG IO_02-REF	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
+EEG IO_03-REF	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
+EEG IO_04-REF	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
+EEG MO_01-REF	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
+EEG MO_02-REF	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
+EEG MO_03-REF	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
+EEG MO_04-REF	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
+EEG SF_01-REF	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
+EEG SF_02-REF	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
+EEG SF_04-REF	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
+EEG SF_05-REF	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
+EEG SF_07-REF	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
+EEG SF_08-REF	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
+EEG MF_01-REF	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
+EEG MF_02-REF	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
+EEG MF_04-REF	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
+EEG MF_05-REF	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
+EEG MF_07-REF	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	bad	spikes
+EEG MF_08-REF	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	bad	spikes
+EEG IF_01-REF	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
+EEG IF_02-REF	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
+EEG IF_04-REF	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
+EEG IF_05-REF	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
+EEG IF_07-REF	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
+EEG IF_08-REF	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
+EEG T_01-REF	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
+EEG T_02-REF	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
+EEG T_03-REF	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
+EEG T_04-REF	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
+EEG T_05-REF	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
+EEG T_06-REF	ECOG	microV	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
+EEG DAIL_01-REF	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
+EEG DAIL_02-REF	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
+EEG DAIL_03-REF	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
+EEG DAIL_04-REF	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
+EEG DAIL_07-REF	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
+EEG DAIL_08-REF	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	bad	spikes
+EEG DPIL_01-REF	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
+EEG DPIL_02-REF	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	bad	spikes
+EEG DPIL_03-REF	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
+EEG DPIL_04-REF	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
+EEG DPIL_05-REF	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
+EEG DPIL_06-REF	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
+EEG DPSL_01-REF	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
+EEG DPSL_02-REF	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
+EEG DPSL_04-REF	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
+EEG DPSL_05-REF	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
+EEG DASL_01-REF	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
+EEG DASL_02-REF	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
+EEG DASL_03-REF	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
+EEG DASL_04-REF	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
+EEG DASL_05-REF	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
+EEG DASL_06-REF	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
+EEG DLPA_01-REF	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
+EEG DLPA_02-REF	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
+EEG DLPA_03-REF	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
+EEG DLPA_04-REF	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
+EEG DLPA_05-REF	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
+EEG DLPA_06-REF	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
+EEG DLPA_07-REF	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
+EEG DLPA_08-REF	SEEG	microV	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
+EEG SG_01-REF	OTHER	microV	500	0.15	512	n/a	n/a	n/a	n/a	bad	spikes
+EEG SG_06-REF	OTHER	microV	500	0.15	512	n/a	n/a	n/a	n/a	bad	spikes
+ECG EKG1-REF	ECG	microV	500	0.15	512	n/a	n/a	n/a	n/a	bad	n/a
+ECG EKG2-REF	ECG	microV	500	0.15	512	n/a	n/a	n/a	n/a	bad	n/a
+DC EMBRACE-REF	OTHER	microV	500	0.15	512	n/a	n/a	n/a	n/a	bad	n/a
+DC2-REF	OTHER	microV	500	0.15	512	n/a	n/a	n/a	n/a	bad	n/a
+DC3-REF	OTHER	microV	500	0.15	512	n/a	n/a	n/a	n/a	bad	n/a
+DC4-REF	OTHER	microV	500	0.15	512	n/a	n/a	n/a	n/a	bad	n/a
+DC5-REF	OTHER	microV	500	0.15	512	n/a	n/a	n/a	n/a	bad	n/a
+DC6-REF	OTHER	microV	500	0.15	512	n/a	n/a	n/a	n/a	bad	n/a
+DC7-REF	OTHER	microV	500	0.15	512	n/a	n/a	n/a	n/a	bad	n/a
+DC8-REF	OTHER	microV	500	0.15	512	n/a	n/a	n/a	n/a	bad	n/a
+DC9-REF	OTHER	microV	500	0.15	512	n/a	n/a	n/a	n/a	bad	n/a
+DC10-REF	TRIG	microV	500	0.15	512	n/a	n/a	n/a	n/a	bad	n/a
+DC TCSPO2-REF	OTHER	microV	500	0.15	512	n/a	n/a	n/a	n/a	bad	n/a
+DC TCCO2-REF	OTHER	microV	500	0.15	512	n/a	n/a	n/a	n/a	bad	n/a

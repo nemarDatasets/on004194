@@ -1,0 +1,3 @@
+name	type	units	low_cutoff	high_cutoff	sampling_frequency	notch	reference	group	description	status	status_description
+PulseR	OTHER	bpm	500	0.15	512	n/a	n/a	n/a	n/a	bad	n/a
+EDFAnnotati	OTHER	unknown	500	0.15	512	n/a	n/a	n/a	n/a	bad	n/a
