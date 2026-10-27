@@ -1,13 +1,13 @@
 name	type	units	low_cutoff	high_cutoff	sampling_frequency	notch	reference	group	description	status	status_description
-G01	ECOG	unknown	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G02	ECOG	unknown	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G03	ECOG	unknown	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G04	ECOG	unknown	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G05	ECOG	unknown	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G06	ECOG	unknown	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G07	ECOG	unknown	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G08	ECOG	unknown	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-G09	ECOG	unknown	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+G1	ECOG	unknown	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+G2	ECOG	unknown	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+G3	ECOG	unknown	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+G4	ECOG	unknown	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+G5	ECOG	unknown	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+G6	ECOG	unknown	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+G7	ECOG	unknown	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+G8	ECOG	unknown	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
+G9	ECOG	unknown	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
 G10	ECOG	unknown	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
 G11	ECOG	unknown	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
 G12	ECOG	unknown	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
@@ -63,40 +63,40 @@ G61	ECOG	unknown	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
 G62	ECOG	unknown	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
 G63	ECOG	unknown	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
 G64	ECOG	unknown	500	0.15	512	n/a	n/a	grid	n/a	good	n/a
-ST01	ECOG	unknown	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
-ST02	ECOG	unknown	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
-ST03	ECOG	unknown	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
-ST04	ECOG	unknown	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
-MT01	ECOG	unknown	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
-MT02	ECOG	unknown	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
-MT03	ECOG	unknown	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
-MT04	ECOG	unknown	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
-PT01	ECOG	unknown	500	0.15	512	n/a	n/a	strip	n/a	bad	spikes
-PT02	ECOG	unknown	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
-PT03	ECOG	unknown	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
-PT04	ECOG	unknown	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
-AMT01	SEEG	unknown	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
-AMT02	SEEG	unknown	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
-AMT03	SEEG	unknown	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
-AMT04	SEEG	unknown	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
-AMT05	SEEG	unknown	500	0.15	512	n/a	n/a	depth	n/a	bad	spikes
-AMT06	SEEG	unknown	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
-AMT07	SEEG	unknown	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
-AMT08	SEEG	unknown	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
-AMT09	SEEG	unknown	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
+ST1	ECOG	unknown	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
+ST2	ECOG	unknown	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
+ST3	ECOG	unknown	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
+ST4	ECOG	unknown	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
+MT1	ECOG	unknown	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
+MT2	ECOG	unknown	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
+MT3	ECOG	unknown	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
+MT4	ECOG	unknown	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
+PT1	ECOG	unknown	500	0.15	512	n/a	n/a	strip	n/a	bad	spikes
+PT2	ECOG	unknown	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
+PT3	ECOG	unknown	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
+PT4	ECOG	unknown	500	0.15	512	n/a	n/a	strip	n/a	good	n/a
+AMT1	SEEG	unknown	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
+AMT2	SEEG	unknown	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
+AMT3	SEEG	unknown	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
+AMT4	SEEG	unknown	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
+AMT5	SEEG	unknown	500	0.15	512	n/a	n/a	depth	n/a	bad	spikes
+AMT6	SEEG	unknown	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
+AMT7	SEEG	unknown	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
+AMT8	SEEG	unknown	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
+AMT9	SEEG	unknown	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
 AMT10	SEEG	unknown	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
-PMT01	SEEG	unknown	500	0.15	512	n/a	n/a	depth	n/a	bad	spikes
-PMT02	SEEG	unknown	500	0.15	512	n/a	n/a	depth	n/a	bad	low freq
-PMT03	SEEG	unknown	500	0.15	512	n/a	n/a	depth	n/a	bad	low freq
-PMT04	SEEG	unknown	500	0.15	512	n/a	n/a	depth	n/a	bad	spikes
-PMT05	SEEG	unknown	500	0.15	512	n/a	n/a	depth	n/a	bad	low freq
-PMT06	SEEG	unknown	500	0.15	512	n/a	n/a	depth	n/a	bad	spikes
-PMT07	SEEG	unknown	500	0.15	512	n/a	n/a	depth	n/a	bad	spikes
-PMT08	SEEG	unknown	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
-SL01	SEEG	unknown	500	0.15	512	n/a	n/a	depth	n/a	bad	low freq
-SL02	SEEG	unknown	500	0.15	512	n/a	n/a	depth	n/a	bad	low freq
-SL03	SEEG	unknown	500	0.15	512	n/a	n/a	depth	n/a	bad	spikes
-SL04	SEEG	unknown	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
+PMT1	SEEG	unknown	500	0.15	512	n/a	n/a	depth	n/a	bad	spikes
+PMT2	SEEG	unknown	500	0.15	512	n/a	n/a	depth	n/a	bad	low freq
+PMT3	SEEG	unknown	500	0.15	512	n/a	n/a	depth	n/a	bad	low freq
+PMT4	SEEG	unknown	500	0.15	512	n/a	n/a	depth	n/a	bad	spikes
+PMT5	SEEG	unknown	500	0.15	512	n/a	n/a	depth	n/a	bad	low freq
+PMT6	SEEG	unknown	500	0.15	512	n/a	n/a	depth	n/a	bad	spikes
+PMT7	SEEG	unknown	500	0.15	512	n/a	n/a	depth	n/a	bad	spikes
+PMT8	SEEG	unknown	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
+SL1	SEEG	unknown	500	0.15	512	n/a	n/a	depth	n/a	bad	low freq
+SL2	SEEG	unknown	500	0.15	512	n/a	n/a	depth	n/a	bad	low freq
+SL3	SEEG	unknown	500	0.15	512	n/a	n/a	depth	n/a	bad	spikes
+SL4	SEEG	unknown	500	0.15	512	n/a	n/a	depth	n/a	good	n/a
 SG1	OTHER	unknown	500	0.15	512	n/a	n/a	n/a	n/a	bad	n/a
 SG2	OTHER	unknown	500	0.15	512	n/a	n/a	n/a	n/a	bad	n/a
 SG3	OTHER	unknown	500	0.15	512	n/a	n/a	n/a	n/a	bad	n/a
